@@ -380,6 +380,21 @@
           "href": "http://localhost:3000/books/27"
         }
       ]
+    },
+    {
+      "title": "moja ksiazka",
+      "author": "Piotr K",
+      "isbn": "2019",
+      "releaseDate": "2022-01-01",
+      "createdAt": "2022-09-09T20:54:28.405Z",
+      "updatedAt": "2022-09-09T20:54:28.407Z",
+      "id": 28,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/28"
+        }
+      ]
     }
   ],
   "households": [
