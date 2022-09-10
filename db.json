@@ -395,6 +395,51 @@
           "href": "http://localhost:3000/books/28"
         }
       ]
+    },
+    {
+      "title": "moja ksiazka",
+      "author": "Piotr K",
+      "isbn": "2019",
+      "releaseDate": "2022-01-01",
+      "createdAt": "2022-09-10T08:58:16.886Z",
+      "updatedAt": "2022-09-10T08:58:16.886Z",
+      "id": 29,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/29"
+        }
+      ]
+    },
+    {
+      "title": "moja ksiazka",
+      "author": "Piotr K",
+      "isbn": "2019",
+      "releaseDate": "2022-01-01",
+      "createdAt": "2022-09-10T09:02:44.378Z",
+      "updatedAt": "2022-09-10T09:02:44.378Z",
+      "id": 30,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/30"
+        }
+      ]
+    },
+    {
+      "title": "moja ksiazka",
+      "author": "Piotr K",
+      "isbn": "2019",
+      "releaseDate": "2022-01-01",
+      "createdAt": "2022-09-10T09:03:02.573Z",
+      "updatedAt": "2022-09-10T09:03:02.573Z",
+      "id": 31,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/31"
+        }
+      ]
     }
   ],
   "households": [
@@ -607,6 +652,75 @@
       "createdAt": "2021-07-10T23:52:56.361Z",
       "updatedAt": "2021-07-10T23:52:56.361Z",
       "id": 18
+    },
+    {
+      "name": "Biblioteka",
+      "id": "55",
+      "createdAt": "2022-09-10T09:28:35.267Z",
+      "updatedAt": "2022-09-10T09:28:35.267Z",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/55"
+        }
+      ]
+    },
+    {
+      "email": "test@wp.pl",
+      "firstName": "Piotr",
+      "lastName": "Drugi",
+      "householdId": "55",
+      "createdAt": "2022-09-10T09:42:33.579Z",
+      "updatedAt": "2022-09-10T09:42:33.579Z",
+      "id": "ppzCyOO",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/ppzCyOO"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-10T10:06:59.047Z",
+      "updatedAt": "2022-09-10T10:06:59.047Z",
+      "id": "4sjCWiC",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/4sjCWiC"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-10T10:14:40.975Z",
+      "updatedAt": "2022-09-10T10:14:40.975Z",
+      "id": "lnCxEJe",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/lnCxEJe"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-10T10:17:22.576Z",
+      "updatedAt": "2022-09-10T10:17:22.576Z",
+      "id": "AR52yEj",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/AR52yEj"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-10T10:18:09.517Z",
+      "updatedAt": "2022-09-10T10:18:09.517Z",
+      "id": "sQb11NH"
     }
   ],
   "users": [
@@ -1181,6 +1295,53 @@
           "href": "http://localhost:3000/users/36"
         }
       ]
+    },
+    {
+      "email": "test@op.pl",
+      "firstName": "Nate",
+      "lastName": "Taylor",
+      "id": "55",
+      "createdAt": "2022-09-10T09:32:10.175Z",
+      "updatedAt": "2022-09-10T09:32:10.175Z",
+      "wishlistId": 37,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/55"
+        }
+      ]
+    },
+    {
+      "email": "test@wp.pl",
+      "firstName": "Piotr",
+      "lastName": "Kon",
+      "householdId": "55",
+      "createdAt": "2022-09-10T09:42:06.540Z",
+      "updatedAt": "2022-09-10T09:42:06.540Z",
+      "wishlistId": 38,
+      "id": "jq92qah",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/jq92qah"
+        }
+      ]
+    },
+    {
+      "email": "test@wp.pl",
+      "firstName": "Piotr",
+      "lastName": "Drugi",
+      "householdId": "55",
+      "createdAt": "2022-09-10T09:43:45.012Z",
+      "updatedAt": "2022-09-10T09:43:45.012Z",
+      "wishlistId": 39,
+      "id": "ax_fNjv",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/ax_fNjv"
+        }
+      ]
     }
   ],
   "accounts": [
@@ -1409,6 +1570,21 @@
       "name": "Nate's List",
       "books": [],
       "id": 36
+    },
+    {
+      "name": "Nate's List",
+      "books": [],
+      "id": 37
+    },
+    {
+      "name": "Piotr's List",
+      "books": [],
+      "id": 38
+    },
+    {
+      "name": "Piotr's List",
+      "books": [],
+      "id": 39
     }
   ]
 }
