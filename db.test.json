@@ -10,9 +10,168 @@
       "updatedAt": "2020-03-27T00:00:00.000Z"
     }
   ],
-  "households": [],
-  "users": [],
-  "wishlists": [],
+  "households": [
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-10T10:23:54.605Z",
+      "updatedAt": "2022-09-10T10:23:54.605Z",
+      "id": 1,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3030/households/1"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-10T10:24:20.007Z",
+      "updatedAt": "2022-09-10T10:24:20.007Z",
+      "id": 2,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3030/households/2"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-10T10:26:20.679Z",
+      "updatedAt": "2022-09-10T10:26:20.679Z",
+      "id": 3,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3030/households/3"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "email": "test@wp.pl",
+      "firstName": "Piotr",
+      "lastName": "Kon",
+      "householdId": 1,
+      "createdAt": "2022-09-10T10:23:54.658Z",
+      "updatedAt": "2022-09-10T10:23:54.658Z",
+      "wishlistId": 1,
+      "id": 1,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3030/users/1"
+        }
+      ]
+    },
+    {
+      "email": "test@wp.pl",
+      "firstName": "Piotr",
+      "lastName": "Drugi",
+      "householdId": 1,
+      "createdAt": "2022-09-10T10:23:54.684Z",
+      "updatedAt": "2022-09-10T10:23:54.684Z",
+      "wishlistId": 2,
+      "id": 2,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3030/users/2"
+        }
+      ]
+    },
+    {
+      "email": "test@wp.pl",
+      "firstName": "Piotr",
+      "lastName": "Kon",
+      "householdId": 2,
+      "createdAt": "2022-09-10T10:24:20.056Z",
+      "updatedAt": "2022-09-10T10:24:20.056Z",
+      "wishlistId": 3,
+      "id": 3,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3030/users/3"
+        }
+      ]
+    },
+    {
+      "email": "test@wp.pl",
+      "firstName": "Piotr",
+      "lastName": "Drugi",
+      "householdId": 2,
+      "createdAt": "2022-09-10T10:24:20.086Z",
+      "updatedAt": "2022-09-10T10:24:20.086Z",
+      "wishlistId": 4,
+      "id": 4,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3030/users/4"
+        }
+      ]
+    },
+    {
+      "email": "test@wp.pl",
+      "firstName": "Piotr",
+      "lastName": "Kon",
+      "householdId": 3,
+      "createdAt": "2022-09-10T10:26:20.721Z",
+      "updatedAt": "2022-09-10T10:26:20.721Z",
+      "wishlistId": 5,
+      "id": 5,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3030/users/5"
+        }
+      ]
+    },
+    {
+      "email": "test@wp.pl",
+      "firstName": "Piotr",
+      "lastName": "Drugi",
+      "householdId": 3,
+      "createdAt": "2022-09-10T10:26:20.754Z",
+      "updatedAt": "2022-09-10T10:26:20.754Z",
+      "wishlistId": 6,
+      "id": 6
+    }
+  ],
+  "wishlists": [
+    {
+      "name": "Piotr's List",
+      "books": [],
+      "id": 1
+    },
+    {
+      "name": "Piotr's List",
+      "books": [],
+      "id": 2
+    },
+    {
+      "name": "Piotr's List",
+      "books": [],
+      "id": 3
+    },
+    {
+      "name": "Piotr's List",
+      "books": [],
+      "id": 4
+    },
+    {
+      "name": "Piotr's List",
+      "books": [],
+      "id": 5
+    },
+    {
+      "name": "Piotr's List",
+      "books": [],
+      "id": 6
+    }
+  ],
   "accounts": [
     {
       "id": 1,

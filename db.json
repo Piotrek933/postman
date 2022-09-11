@@ -440,6 +440,60 @@
           "href": "http://localhost:3000/books/31"
         }
       ]
+    },
+    {
+      "title": "Satchel: The Life and Times of an American Legend",
+      "author": "Larry Tye",
+      "isbn": "0812977971",
+      "publicationDate": "2010-05-04",
+      "createdAt": "2022-09-10T11:03:48.409Z",
+      "updatedAt": "2022-09-10T11:03:48.409Z",
+      "id": 32,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/32"
+        }
+      ]
+    },
+    {
+      "title": "Writing To Learn",
+      "author": "William Zinsser",
+      "isbn": "0062720406",
+      "publicationDate": "1993-06-04",
+      "createdAt": "2022-09-10T11:03:48.436Z",
+      "updatedAt": "2022-09-10T11:03:48.436Z",
+      "id": 33,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/33"
+        }
+      ]
+    },
+    {
+      "title": "John Calvin: A Pilgrim's Life",
+      "author": "Herman J. Selderhuis",
+      "isbn": "0830829210",
+      "publicationDate": "2009-02-21",
+      "createdAt": "2022-09-10T11:03:48.458Z",
+      "updatedAt": "2022-09-10T11:03:48.458Z",
+      "id": 34,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/34"
+        }
+      ]
+    },
+    {
+      "title": "The Brazilian Jiu Jitsu Globe Trotter",
+      "author": "Christian Gaugart",
+      "isbn": "1479104523",
+      "publicationDate": "2012-11-13",
+      "createdAt": "2022-09-10T11:03:48.476Z",
+      "updatedAt": "2022-09-10T11:03:48.476Z",
+      "id": 35
     }
   ],
   "households": [
@@ -720,7 +774,109 @@
       "name": "Biblioteka",
       "createdAt": "2022-09-10T10:18:09.517Z",
       "updatedAt": "2022-09-10T10:18:09.517Z",
-      "id": "sQb11NH"
+      "id": "sQb11NH",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/sQb11NH"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-10T10:22:37.916Z",
+      "updatedAt": "2022-09-10T10:22:37.916Z",
+      "id": "Oi4rVut"
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T18:39:54.788Z",
+      "updatedAt": "2022-09-11T18:39:54.790Z",
+      "id": "20i2ww0",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/20i2ww0"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T18:40:39.916Z",
+      "updatedAt": "2022-09-11T18:40:39.916Z",
+      "id": "JqEXnee",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/JqEXnee"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T18:48:04.003Z",
+      "updatedAt": "2022-09-11T18:48:04.003Z",
+      "id": "rGw8AN8",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/rGw8AN8"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T18:48:49.013Z",
+      "updatedAt": "2022-09-11T18:48:49.013Z",
+      "id": "RI2wPqQ",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/RI2wPqQ"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T18:50:00.740Z",
+      "updatedAt": "2022-09-11T18:50:00.740Z",
+      "id": "ssvBKu7",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/ssvBKu7"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T18:50:54.916Z",
+      "updatedAt": "2022-09-11T18:50:54.916Z",
+      "id": "H5n4Viu",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/H5n4Viu"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T18:52:08.532Z",
+      "updatedAt": "2022-09-11T18:52:08.532Z",
+      "id": "JbSsexv",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/JbSsexv"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T18:56:32.211Z",
+      "updatedAt": "2022-09-11T18:56:32.211Z",
+      "id": "L7HdB38"
     }
   ],
   "users": [
