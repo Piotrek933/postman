@@ -876,7 +876,235 @@
       "name": "Biblioteka",
       "createdAt": "2022-09-11T18:56:32.211Z",
       "updatedAt": "2022-09-11T18:56:32.211Z",
-      "id": "L7HdB38"
+      "id": "L7HdB38",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/L7HdB38"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T19:38:19.153Z",
+      "updatedAt": "2022-09-11T19:38:19.153Z",
+      "id": "3B-8J0n",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/3B-8J0n"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T19:43:31.840Z",
+      "updatedAt": "2022-09-11T19:43:31.840Z",
+      "id": "mXVHI81",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/mXVHI81"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T19:52:05.753Z",
+      "updatedAt": "2022-09-11T19:52:05.753Z",
+      "id": "wO_uJLJ",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/wO_uJLJ"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T19:59:05.520Z",
+      "updatedAt": "2022-09-11T19:59:05.520Z",
+      "id": "KK9R8-B",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/KK9R8-B"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T20:01:29.139Z",
+      "updatedAt": "2022-09-11T20:01:29.139Z",
+      "id": "F0fAVXe",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/F0fAVXe"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T20:02:22.575Z",
+      "updatedAt": "2022-09-11T20:02:22.575Z",
+      "id": "9SG2RtR",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/9SG2RtR"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T20:04:50.114Z",
+      "updatedAt": "2022-09-11T20:04:50.114Z",
+      "id": "X80lJA3",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/X80lJA3"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T20:07:17.926Z",
+      "updatedAt": "2022-09-11T20:07:17.926Z",
+      "id": "NQFwvoL",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/NQFwvoL"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T20:08:06.208Z",
+      "updatedAt": "2022-09-11T20:08:06.208Z",
+      "id": "V0Nrgfw",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/V0Nrgfw"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T20:10:41.303Z",
+      "updatedAt": "2022-09-11T20:10:41.303Z",
+      "id": "PvXcmzK",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/PvXcmzK"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T20:11:52.843Z",
+      "updatedAt": "2022-09-11T20:11:52.843Z",
+      "id": "sVFR9cI",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/sVFR9cI"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T20:15:04.360Z",
+      "updatedAt": "2022-09-11T20:15:04.360Z",
+      "id": "LGOkzjk",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/LGOkzjk"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T20:15:58.616Z",
+      "updatedAt": "2022-09-11T20:15:58.616Z",
+      "id": "6bItXXU",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/6bItXXU"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T20:19:29.199Z",
+      "updatedAt": "2022-09-11T20:19:29.199Z",
+      "id": "a42JQ7y",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/a42JQ7y"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T20:21:01.323Z",
+      "updatedAt": "2022-09-11T20:21:01.323Z",
+      "id": "wpK6nfR",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/wpK6nfR"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T20:23:41.792Z",
+      "updatedAt": "2022-09-11T20:23:41.792Z",
+      "id": "4dYvcWe",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/4dYvcWe"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T20:25:15.762Z",
+      "updatedAt": "2022-09-11T20:25:15.762Z",
+      "id": "Koy9Gug",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/Koy9Gug"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T20:26:16.013Z",
+      "updatedAt": "2022-09-11T20:26:16.013Z",
+      "id": "hlVBNwN",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/hlVBNwN"
+        }
+      ]
+    },
+    {
+      "name": "Biblioteka",
+      "createdAt": "2022-09-11T20:32:32.684Z",
+      "updatedAt": "2022-09-11T20:32:32.684Z",
+      "id": "x5WDRH9"
     }
   ],
   "users": [
